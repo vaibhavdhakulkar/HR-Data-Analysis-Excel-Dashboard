@@ -12,3 +12,5 @@ Overview of employee skills, certifications, and training programs
 Skills & Tools: Excel, Pivot Tables, Charts, Data Cleaning, Dashboard Design, HR Analytics
 
 📊 This dashboard helps HR teams and management make data-driven workforce decisions with clarity and precision.
+
+<img width="1217" height="749" alt="image" src="https://github.com/user-attachments/assets/65f75e9e-c1e8-4628-90b8-8fec24b21c00" />
